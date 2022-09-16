@@ -1,5 +1,5 @@
 
-<h5 align="center">A test-driven Frontend Developer with knowledge of the entire software development life cycle. <br/>React | NextJs | Javascript | Tailwind | SCSS | CSS | HTML | End-end testing</h5>
+<h4 align="center">A test-driven Frontend Developer with knowledge of the entire software development life cycle. <br/>React | NextJs | Javascript | Tailwind | SCSS | CSS | HTML | End-end testing</h4>
 
 
 - 👨‍💻 [chukwudinweze.netlify.app](chukwudinweze.netlify.app)
