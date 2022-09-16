@@ -1,7 +1,6 @@
 
-<h1 align="center">Hi 👋, I'm Chukwudi Nweze</h1>
-<h3 align="center">A test-driven Frontend Developer with knowledge of the entire software development life cycle. <br/>React | NextJs | Javascript | Tailwind | SCSS | CSS | HTML | End-end testing</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
+<h5 align="center">A test-driven Frontend Developer with knowledge of the entire software development life cycle. <br/>React | NextJs | Javascript | Tailwind | SCSS | CSS | HTML | End-end testing</h5>
+
 
 - 👨‍💻 [chukwudinweze.netlify.app](chukwudinweze.netlify.app)
 
