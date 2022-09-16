@@ -1,4 +1,3 @@
-[![MasterHead](https://res.cloudinary.com/practicaldev/image/fetch/s--ItM6k2Vz--/c_imagga_scale,f_auto,fl_progressive,h_900,q_auto,w_1600/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/7vx1ntk1reuhqo3tafbo.png)
 
 <h1 align="center">Hi 👋, I'm Chukwudi Nweze</h1>
 <h3 align="center">A test-driven Frontend Developer with knowledge of the entire software development life cycle. <br/>React | NextJs | Javascript | Tailwind | SCSS | CSS | HTML | End-end testing</h3>
