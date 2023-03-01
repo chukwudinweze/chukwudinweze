@@ -2,7 +2,7 @@
 <h3 align="center">A test-driven Frontend Developer with knowledge of the entire software development life cycle. <br/><br/>React | NextJs | Javascript | Tailwind | SCSS | CSS | HTML | End-end testing</h3>
 
 
-👨‍💻 [chukwudinweze.netlify.app](chukwudinweze.netlify.app)
+👨‍💻 [chuudinweze.netlify.app](chudinweze.netlify.app)
 
 📫 **chukwudinwez@gmail.com**
 
