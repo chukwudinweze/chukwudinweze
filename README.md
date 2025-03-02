@@ -1,5 +1,5 @@
 <h2 align="left">Hi 👋, I'm Chukwudi Nweze</h2>
-<h4 align="left">A frontend developer with 5 years of experience. I simplify complex technical concepts through technical writing.</h4>
+<h4 align="left">A frontend Engineer with over 5 years of experience. I simplify complex technical concepts through technical writing.</h4>
 
 📝I write technical articles on [https://chukwudinweze.hashnode.dev](https://chukwudinweze.hashnode.dev)
 
